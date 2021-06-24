@@ -1,5 +1,18 @@
+/*Reset*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/*Commmon*/
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.outfit {
+    display:inline-block;
+    width: calc(100% / 3);
 }
