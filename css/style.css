@@ -74,6 +74,10 @@
 
 }
 
+.price {
+    color: red;
+}
+
 .sbarrato {
     text-decoration: line-through;
 }
