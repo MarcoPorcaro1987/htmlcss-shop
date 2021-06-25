@@ -20,7 +20,10 @@
 
 .outfit img {
     width: 100%;
-   
+}
+
+.foto {
+    display: block;
 }
 
 
