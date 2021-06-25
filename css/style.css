@@ -15,12 +15,12 @@
     display:inline-block;
     width: calc(100% / 3);
     position: relative;
-    margin-bottom: 0px;
+    padding: 10px 3px 0px 3px;  
 }
 
 .outfit img {
     width: 100%;
-    padding: 10px 3px 0px 3px;  
+   
 }
 
 
@@ -56,22 +56,23 @@
     z-index: 1;
 }
 
-.sale {
-    background-color: red;
+
+.button div {
     display: inline-block;
     padding: 2px;
 }
 
+.sale {
+    background-color: red;
+
+}
+
 .green {
     background-color: green;
-    display: inline-block;
-    padding: 2px
 }
 
 .didascalia {
-    padding-left: 3px;
     font-size: 8px;
-
 }
 
 .price {
